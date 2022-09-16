@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h2 {
+  color: red;
+}
+:root {
+  --primary_bg_color: #a6e6d6;
+  --secondary_bg_color: #f7b5b6;
+}
+body {
+  background-color: var(--primary_bg_color);
+  font-style: initial;
+}
+h1 {
+  background-color: var(--secondary_bg_color);
+}
